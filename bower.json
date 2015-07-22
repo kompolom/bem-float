@@ -1,0 +1,27 @@
+{
+  "name": "bem-float",
+  "version": "0.1.0",
+    "repository": {
+    "type": "git",
+    "url": "git://github.com/kompolom/bem-float.git"
+  },
+  "authors": [
+    "Evgeniy Baranov <master@kompolom.ru>"
+  ],
+  "description": "Simply bem realisation of fixable block",
+  "keywords": [
+    "bem",
+    "scrollspy",
+    "fixable",
+    "float",
+    "i-bem"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "node_modules",
+    "libs"
+  ],
+  "dependencies": {
+    "bem-scrollspy": "~0.1.5"
+  }
+}
